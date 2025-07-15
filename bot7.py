@@ -174,11 +174,11 @@ async def handle_photo(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
 
     # Отправляем карты
     if card1 and card2 and card3:
-        await update.message.reply_text("Небезпека")
+        await update.message.reply_text("Передумова")
         await update.message.reply_photo(card1)
-        await update.message.reply_text("Стан")
+        await update.message.reply_text("Наслідок")
         await update.message.reply_photo(card2)
-        await update.message.reply_text("Можливості")
+        await update.message.reply_text("Крок")
         await update.message.reply_photo(card3)
     else:
         await update.message.reply_text("Не удалось найти подходящие карты для вашего изображения.")
