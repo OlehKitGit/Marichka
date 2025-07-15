@@ -8,5 +8,5 @@ bot7.py - ukrainaian telegram-bot Marichka
 bot10.py - russian telegram-bot Ksusha
 <br>
 <br> 
-bot11.py - english telegram-bot Hermiona
+bot11.py - english telegram-bot Hermione
 
