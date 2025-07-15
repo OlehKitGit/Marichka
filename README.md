@@ -16,4 +16,4 @@ The ukrainian tarot translation  - https://mega.nz/file/MiR0CYia#RjSvl3keLq-w8iN
 
 The english tarot translation - https://mega.nz/file/J6ZjTYAK#RS9L7V5cnVEnTCYEcMfIDPwimTM5MJacDvTySd3foCU
 
-The russian tarot translation - https://mega.nz/file/NvAWFAZI#-WDsGWK-y5nGpgBPB-tlLVG7spsIIdDHtGaLylfR5IU
+
