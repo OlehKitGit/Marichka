@@ -2,7 +2,7 @@
 Know the truth and see the right way.
 <br> 
 <br> 
-bot7.py - ukrainaian telegram-bot Marichka
+bot7.py - ukrainian telegram-bot Marichka
 <br> 
 <br> 
 bot10.py - russian telegram-bot Ksusha
